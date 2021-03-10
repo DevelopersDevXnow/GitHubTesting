@@ -13,6 +13,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         Toast.makeText ( this, "hello i am pawana", Toast.LENGTH_SHORT ).show ();
 
-        i will do mistake by making mistake;
+        i will do mistake by making mistake
     }
 }
