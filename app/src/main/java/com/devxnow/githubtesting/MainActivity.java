@@ -17,5 +17,6 @@ public class MainActivity extends AppCompatActivity {
 
         Toast.makeText(this, "Local Change by royston sanctis branch", Toast.LENGTH_SHORT).show();
 
+        Toast.makeText(this, "Commit Royston Sanctis", Toast.LENGTH_SHORT).show();
     }
 }
