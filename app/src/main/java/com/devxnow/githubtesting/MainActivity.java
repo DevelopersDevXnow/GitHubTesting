@@ -12,7 +12,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         Toast.makeText ( this, "hello i am pawana", Toast.LENGTH_SHORT ).show ();
-        Toast.makeText ( this, "hello i am Royston Sanctis", Toast.LENGTH_SHORT ).show ();
 
+        i will do mistake by making mistake;
     }
 }
